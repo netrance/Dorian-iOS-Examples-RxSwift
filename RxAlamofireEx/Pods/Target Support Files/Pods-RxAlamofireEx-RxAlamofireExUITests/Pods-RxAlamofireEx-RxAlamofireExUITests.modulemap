@@ -1,0 +1,6 @@
+framework module Pods_RxAlamofireEx_RxAlamofireExUITests {
+  umbrella header "Pods-RxAlamofireEx-RxAlamofireExUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
